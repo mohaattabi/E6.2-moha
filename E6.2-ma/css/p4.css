@@ -1,0 +1,27 @@
+h1{
+  text-align: center;
+  color: #FF4000;
+  font-size: 50px;
+}
+
+.titulo1{
+  margin-top: 30px;
+}
+
+.explicacion {
+  width: 50%;
+
+}
+
+.explicacion1{
+  width: 200px;
+}
+
+p{
+  width: 70%;
+}
+
+h2{
+  color: #80FF00;
+  font-size: 30px;
+}
